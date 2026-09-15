@@ -166,84 +166,84 @@ rodents.sample(5)
   </thead>
   <tbody>
     <tr>
-      <th>19794</th>
-      <td>23726</td>
-      <td>4</td>
-      <td>14</td>
-      <td>1996</td>
-      <td>19</td>
-      <td>PP</td>
-      <td>M</td>
-      <td>23.0</td>
-      <td>21.0</td>
-      <td>Chaetodipus</td>
-      <td>penicillatus</td>
-      <td>Rodent</td>
-      <td>Long-term Krat Exclosure</td>
-    </tr>
-    <tr>
-      <th>17652</th>
-      <td>21294</td>
-      <td>12</td>
-      <td>14</td>
-      <td>1993</td>
+      <th>23407</th>
+      <td>27500</td>
       <td>2</td>
-      <td>DO</td>
+      <td>1</td>
+      <td>1998</td>
+      <td>13</td>
+      <td>OT</td>
       <td>F</td>
-      <td>36.0</td>
-      <td>42.0</td>
-      <td>Dipodomys</td>
-      <td>ordii</td>
+      <td>19.0</td>
+      <td>25.0</td>
+      <td>Onychomys</td>
+      <td>torridus</td>
       <td>Rodent</td>
-      <td>Control</td>
+      <td>Short-term Krat Exclosure</td>
     </tr>
     <tr>
-      <th>5707</th>
-      <td>7719</td>
-      <td>4</td>
-      <td>17</td>
-      <td>1983</td>
-      <td>11</td>
+      <th>1815</th>
+      <td>2440</td>
+      <td>2</td>
+      <td>24</td>
+      <td>1980</td>
+      <td>9</td>
       <td>DS</td>
       <td>F</td>
-      <td>51.0</td>
-      <td>102.0</td>
+      <td>50.0</td>
+      <td>103.0</td>
       <td>Dipodomys</td>
       <td>spectabilis</td>
       <td>Rodent</td>
-      <td>Control</td>
+      <td>Spectab exclosure</td>
     </tr>
     <tr>
-      <th>21131</th>
-      <td>25136</td>
-      <td>2</td>
-      <td>9</td>
+      <th>21196</th>
+      <td>25201</td>
+      <td>3</td>
+      <td>15</td>
       <td>1997</td>
-      <td>8</td>
-      <td>DO</td>
+      <td>12</td>
+      <td>RM</td>
       <td>M</td>
-      <td>36.0</td>
-      <td>51.0</td>
-      <td>Dipodomys</td>
-      <td>ordii</td>
+      <td>16.0</td>
+      <td>10.0</td>
+      <td>Reithrodontomys</td>
+      <td>megalotis</td>
       <td>Rodent</td>
       <td>Control</td>
     </tr>
     <tr>
-      <th>16802</th>
-      <td>20266</td>
-      <td>8</td>
-      <td>29</td>
-      <td>1992</td>
-      <td>18</td>
-      <td>PP</td>
+      <th>3794</th>
+      <td>5332</td>
+      <td>2</td>
+      <td>22</td>
+      <td>1982</td>
+      <td>17</td>
+      <td>DM</td>
       <td>F</td>
-      <td>21.0</td>
-      <td>21.0</td>
-      <td>Chaetodipus</td>
-      <td>penicillatus</td>
+      <td>37.0</td>
+      <td>43.0</td>
+      <td>Dipodomys</td>
+      <td>merriami</td>
       <td>Rodent</td>
-      <td>Short-term Krat Exclosure</td>
+      <td>Control</td>
+    </tr>
+    <tr>
+      <th>6868</th>
+      <td>8963</td>
+      <td>3</td>
+      <td>13</td>
+      <td>1984</td>
+      <td>1</td>
+      <td>NL</td>
+      <td>M</td>
+      <td>32.0</td>
+      <td>182.0</td>
+      <td>Neotoma</td>
+      <td>albigula</td>
+      <td>Rodent</td>
+      <td>Spectab exclosure</td>
     </tr>
   </tbody>
 </table>
